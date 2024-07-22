@@ -1,0 +1,125 @@
+{
+  "project_info": {
+    "project_number": "1035442472174",
+    "firebase_url": "https://harlem-storage2024-default-rtdb.firebaseio.com",
+    "project_id": "harlem-storage2024",
+    "storage_bucket": "harlem-storage2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035442472174:android:818d0dd0de5d50da03dfff",
+        "android_client_info": {
+          "package_name": "com.example.face_rec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBybXZnfssXy6AT7gLt2EBruAq8A17jQRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035442472174:android:25d68bd93384409403dfff",
+        "android_client_info": {
+          "package_name": "com.example.face_rec_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBybXZnfssXy6AT7gLt2EBruAq8A17jQRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035442472174:android:96b525f9a32de88803dfff",
+        "android_client_info": {
+          "package_name": "com.example.realtime_face_recognition"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBybXZnfssXy6AT7gLt2EBruAq8A17jQRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035442472174:android:78d11dfe737bb70c03dfff",
+        "android_client_info": {
+          "package_name": "com.face_attendance_harlem_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBybXZnfssXy6AT7gLt2EBruAq8A17jQRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035442472174:android:3212a685c092b0fe03dfff",
+        "android_client_info": {
+          "package_name": "com.ttv.faceattendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBybXZnfssXy6AT7gLt2EBruAq8A17jQRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035442472174:android:d6d6a090919d9fe103dfff",
+        "android_client_info": {
+          "package_name": "id.dickysatria.sistem_presensi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBybXZnfssXy6AT7gLt2EBruAq8A17jQRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
